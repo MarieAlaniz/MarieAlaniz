@@ -1,4 +1,4 @@
 ### Hi there 👋
 
 
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning liquid
